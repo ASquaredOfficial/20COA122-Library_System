@@ -1,0 +1,21 @@
+01:Rich Dad Poor Dad:05/01/2011:14/06/2011
+02:Sports Bible-Gnt:10/05/2013:23/10/2013
+03:Software Engineering:12/10/2020:23/12/2020
+04:Attack on Titan Vol. 1:07/12/2020:17/12/2020
+05:The Trade:13/10/2020:07/11/2021
+06:The 21 Laws:12/09/2020:21/01/2020
+07:Death Note:05/12/2020:21/01/2021
+08:Code - Code - The Hidden Language of Computer Hardware and Software:20/02/2017:08/09/2017
+09:Linear Algebra and Its Applications:02/03/2020:13/04/2020
+10:Programming in Haskell:15/11/2018:07/12/2020
+11:Dragon Ball:22/02/2017:07/03/2017
+12:Pure Mathematics:21/10/2018:10/02/2021
+13:Harry Potter and the Philosop...:25/12/2004:26/04/2005
+14:The Good Book:15/12/2020:27/02/2021
+15:The Trade:30/06/2020:15/09/2020
+16:Attack on Titan Vol. 1:14/09/2020:16/02/2021
+17:Venice:12/11/2020:22/01/2021
+18:Nala's World:10/12/2020:03/02/2021
+19:Rich Dad Poor Dad:11/09/2020:12/01/2021
+20:Pure Mathematics:10/11/2019:18/09/2020
+21:Death Note:08/08/2017:20/10/2017
